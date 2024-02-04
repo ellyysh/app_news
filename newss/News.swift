@@ -11,7 +11,7 @@ import UIKit
 struct News {
     let title: String
     let description: String
-    let image: UIImage?
+    let image: UIImage
     let url: URL?
 
 }

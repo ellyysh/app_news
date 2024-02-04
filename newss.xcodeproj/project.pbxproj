@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		14044AFD2B704F0F000EE0F5 /* NewsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14044AFC2B704F0F000EE0F5 /* NewsService.swift */; };
 		147CFF7A2B683312008A5B9E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 147CFF792B683312008A5B9E /* AppDelegate.swift */; };
 		147CFF7C2B683312008A5B9E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 147CFF7B2B683312008A5B9E /* SceneDelegate.swift */; };
 		147CFF812B683312008A5B9E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 147CFF7F2B683312008A5B9E /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		14044AFC2B704F0F000EE0F5 /* NewsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsService.swift; sourceTree = "<group>"; };
 		147CFF762B683312008A5B9E /* newss.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = newss.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		147CFF792B683312008A5B9E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		147CFF7B2B683312008A5B9E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				147CFFA92B68359B008A5B9E /* TableViewController.swift */,
+				14044AFC2B704F0F000EE0F5 /* NewsService.swift */,
 				147CFFAB2B68377A008A5B9E /* News.swift */,
 				147CFF792B683312008A5B9E /* AppDelegate.swift */,
 				147CFF7B2B683312008A5B9E /* SceneDelegate.swift */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14044AFD2B704F0F000EE0F5 /* NewsService.swift in Sources */,
 				147CFF7A2B683312008A5B9E /* AppDelegate.swift in Sources */,
 				147CFF7C2B683312008A5B9E /* SceneDelegate.swift in Sources */,
 				147CFFAC2B68377A008A5B9E /* News.swift in Sources */,
